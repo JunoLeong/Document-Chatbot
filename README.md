@@ -12,7 +12,7 @@ A Conversational AI chatbot that allows users to ask questions based on the cont
 - Customizable & Expandable: Modify document sources and enhance AI capabilities as needed.
 
 ## Video Demo 📽️
-[![Watch Demo](doc_img/demo_thumbnail.png)](https://youtu.be/demo-link "Click to watch the demo on YouTube!")
+- Click to watch the demo on YouTube! >> [Video Demo's Link](https://youtu.be/LaqiERRpiAg?si=uvZ5TfQ-PQGia8wB)
 
 ## How It Works 🏗️
 1. Load PDF Document: Extracts text from the provided "BDO-Malaysia-Budget-2025-Highlights.pdf" file.
@@ -49,7 +49,7 @@ python main.py
 └── 📄 README.md              # Project documentation
 ```
 ## Chatbot Interface (Gradio) 💬
-The chatbot runs on Gradio, providing a simple and interactive web-based interface. It is suitable for rapid prototyping, allowing users to quickly showcase and test the system using a straightforward UI.
+The chatbot runs on Gradio, providing a simple and interactive web-based interface. It is suitable for rapid prototyping, allowing users to showcase and test the system using a straightforward UI.
 
 ### Interface Features 🎨
 1. User-Friendly Chatbot:
